@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trevor Pelkey
 - 👀 I’m interested in ... industrial-organizational psychology
-- 🌱 I’m currently learning ... how to optimize my use of GitHub for the career I am pursuing
-- 💞️ I’m looking to collaborate on ... anything related to psychology
+- 🌱 I’m currently learning ... data analytics and R programming
+- 💞️ I’m looking to collaborate on ... any projects involving data analysis
 - 📫 How to reach me ... tpelkey15@outlook.com
 
 <!---
